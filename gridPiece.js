@@ -10,7 +10,7 @@ const palettes = require('nice-color-palettes');
 const MULTIPLE_COLORS = true;
 
 const settings = {
-  dimensions: [2048, 2048],
+  dimensions: [500, 500],
 };
 
 function drawPath(context, points, stroke = false) {
